@@ -1,0 +1,3 @@
+/home/minkhant/gnutc_gtb_make_cmake/04 cmake intro/hello/build/CMakeFiles/output.dir
+/home/minkhant/gnutc_gtb_make_cmake/04 cmake intro/hello/build/CMakeFiles/edit_cache.dir
+/home/minkhant/gnutc_gtb_make_cmake/04 cmake intro/hello/build/CMakeFiles/rebuild_cache.dir

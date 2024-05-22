@@ -1,0 +1,6 @@
+/home/minkhant/gnutc_gdb_make_cmake/06 cmake add_libary/build/CMakeFiles/output.dir
+/home/minkhant/gnutc_gdb_make_cmake/06 cmake add_libary/build/CMakeFiles/edit_cache.dir
+/home/minkhant/gnutc_gdb_make_cmake/06 cmake add_libary/build/CMakeFiles/rebuild_cache.dir
+/home/minkhant/gnutc_gdb_make_cmake/06 cmake add_libary/build/lib/CMakeFiles/wifi_lib.dir
+/home/minkhant/gnutc_gdb_make_cmake/06 cmake add_libary/build/lib/CMakeFiles/edit_cache.dir
+/home/minkhant/gnutc_gdb_make_cmake/06 cmake add_libary/build/lib/CMakeFiles/rebuild_cache.dir
