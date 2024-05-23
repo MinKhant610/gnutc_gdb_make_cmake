@@ -1,0 +1,1 @@
+/home/minkhant/gnutc_gdb_make_cmake/11 compile-install/build/executable/hellobot

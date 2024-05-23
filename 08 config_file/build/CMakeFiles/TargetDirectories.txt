@@ -1,0 +1,3 @@
+/home/minkhant/gnutc_gdb_make_cmake/08 config_file/build/CMakeFiles/hellobot.dir
+/home/minkhant/gnutc_gdb_make_cmake/08 config_file/build/CMakeFiles/edit_cache.dir
+/home/minkhant/gnutc_gdb_make_cmake/08 config_file/build/CMakeFiles/rebuild_cache.dir

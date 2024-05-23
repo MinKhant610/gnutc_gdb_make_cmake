@@ -1,0 +1,2 @@
+/home/minkhant/gnutc_gdb_make_cmake/07 variable/build/CMakeFiles/edit_cache.dir
+/home/minkhant/gnutc_gdb_make_cmake/07 variable/build/CMakeFiles/rebuild_cache.dir
